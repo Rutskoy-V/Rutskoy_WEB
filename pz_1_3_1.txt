@@ -2,3 +2,4 @@ git clone https://github.com/Rutskoy-V/Rutskoy_WEB.git
 git add numPIB.txt
 git coomit -m
 git add numPIB.txt
+git commit -m
